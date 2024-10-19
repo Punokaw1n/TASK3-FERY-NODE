@@ -24,4 +24,4 @@
 ![decrypt](img/decrypt.png)
 
 - Lalu jika berhasil maka akan ada file bernama "test_encrypt_encrypted_decrypted.txt" yang isi nya dari encrypt tadi dan file tersebut akan sama isinya dengan file "test.txt"
-  ![hasil decrypt](img/hasil_decrypt.png.png)
+  ![hasil decrypt](img/hasil_decrypt.png)
